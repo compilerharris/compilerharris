@@ -37,7 +37,7 @@
    ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/obaidkazi">
+<a href="https://github.com/compilerharris">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=buefy&layout=compact" />
 </a>
 
