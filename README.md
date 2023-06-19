@@ -35,6 +35,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=lightgreen)
  - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
  - 📱 &nbsp;
    ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 <br/>
