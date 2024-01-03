@@ -49,10 +49,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=compilerharris&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/compilerharris">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 # <h3> 🤝🏻 &nbsp;Connect with Me </h3>
