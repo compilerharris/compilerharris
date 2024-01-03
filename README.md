@@ -41,7 +41,7 @@
    ![ Flutter](https://img.shields.io/badge/-flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
 <br/>
 
-<h3> ![](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png) &nbsp;LeetCode</h3>
+<h3> <img src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" width="30"> &nbsp;LeetCode</h3>
 ![](https://leetcode.card.workers.dev/compilerharris?theme=dark&font=baloo&extension=null)
 
 <a href="https://github.com/compilerharris">
