@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=compilerharris&color=dc143c)
 <h2> Hey there! This is Haris Shaikh.</h2>
 
-# <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring and Learning new technologies and helping people by developing software using booming technologies.
 - 🎓 &nbsp; Diploma in Computer Engineering then BE in Computer Engineering from University of Mumbai.
