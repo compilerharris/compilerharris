@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=compilerharris&color=dc143c)
 <h2> Hey there! This is Haris Shaikh.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+# <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring and Learning new technologies and helping people by developing software using booming technologies.
 - 🎓 &nbsp; Diploma in Computer Engineering then BE in Computer Engineering from University of Mumbai.
 - 💼 &nbsp; Working as a Technology Lead at Hard Reload.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+# <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
@@ -50,7 +50,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+# <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/compilerharris" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haris%20Shaikh-blue?style=flat-square&logo=linkedin"></a>
