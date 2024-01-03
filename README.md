@@ -19,4 +19,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=compilerharris&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br/>
+ 
+# <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+ 
+<p align="center">
+<a href="https://www.linkedin.com/in/compilerharris" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haris%20Shaikh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:compilerharris@gmail.com"target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-compilerharris@gmail.com-blue?style=flat-square&logo=gmail"z></a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
