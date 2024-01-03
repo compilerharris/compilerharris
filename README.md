@@ -44,6 +44,11 @@
 # <h3> <img src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" width="30"> &nbsp;LeetCode</h3>
 ![](https://leetcode.card.workers.dev/compilerharris?theme=dark&font=baloo&extension=null)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=compilerharris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=compilerharris&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <a href="https://github.com/compilerharris">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=buefy&layout=compact" />
 </a>
