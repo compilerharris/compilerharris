@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there! This is Haris Shaikh.
 💻 Exploring and Learning new technologies and helping people by developing software using booming technologies.<br>🎓 BE in Computer Engineering from University of Mumbai.
 
 
