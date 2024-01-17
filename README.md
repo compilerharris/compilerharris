@@ -32,6 +32,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=compilerharris&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/compilerharris"><img src="https://api.daily.dev/devcards/931a03bebdb74fc3beb1ba677b3c21cc.png?r=1xv" width="400" alt="Haris Shaikh's Dev Card"/></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=compilerharris&icon=0&color=0)](https://visitcount.itsvg.in)
 
