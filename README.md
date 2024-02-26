@@ -35,7 +35,6 @@
 <a href="https://app.daily.dev/compilerharris"><img src="https://api.daily.dev/devcards/931a03bebdb74fc3beb1ba677b3c21cc.png?r=1xv" width="400" alt="Haris Shaikh's Dev Card"/></a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=compilerharris&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://app.daily.dev/compilerharris"><img src="https://api.daily.dev/devcards/v2/zbD3Eo73wa2XIfDKlLqDq.png?r=84n&type=default" width="356" alt="Haris Shaikh's Dev Card"/></a>
 
 <br/>
