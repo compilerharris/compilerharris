@@ -32,7 +32,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=compilerharris&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=compilerharris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://app.daily.dev/compilerharris"><img src="https://api.daily.dev/devcards/v2/zbD3Eo73wa2XIfDKlLqDq.png?r=84n&type=default" width="356" alt="Haris Shaikh's Dev Card"/></a>
+<a href="https://app.daily.dev/compilerharris"><img src="https://api.daily.dev/devcards/v2/zbD3Eo73wa2XIfDKlLqDq.png?type=default&r=1sa" width="356" alt="Haris Shaikh's Dev Card"/></a>
 ---
 
 <br/>
